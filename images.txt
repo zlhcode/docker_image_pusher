@@ -1,5 +1,2 @@
-nginx
-#支持私库
 nacos/nacos-server:v2.3.2-slim
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+
