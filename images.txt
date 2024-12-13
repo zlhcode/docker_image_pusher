@@ -2,3 +2,4 @@ mysql:8.0.37
 redis:7.0.15
 nginx
 nacos/nacos-server:v2.3.2
+jrottenberg/ffmpeg
